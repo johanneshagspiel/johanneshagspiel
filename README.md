@@ -1,5 +1,6 @@
-# &#128075 Hi there !
+# &#128075 👋  (U+1F44B) Hi there !
 
+👋 
 
 ### Applications
 - 🗃️ [Yet Another Language Learning Extension](https://github.com/johanneshagspiel/yet-another-language-learning-extension):  a Google Chrome extension to translate words and create flashcards in the browser.
