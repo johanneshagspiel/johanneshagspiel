@@ -1,6 +1,6 @@
-# &#128075 👋  (U+1F44B) Hi there !
+# 👋  Hi there !
 
-👋 
+
 
 ### Applications
 - 🗃️ [Yet Another Language Learning Extension](https://github.com/johanneshagspiel/yet-another-language-learning-extension):  a Google Chrome extension to translate words and create flashcards in the browser.
@@ -22,12 +22,12 @@
 - ✨ [Apache Spark Scripts](https://github.com/johanneshagspiel/apache-spark-scripts): a collection of Apache Spark scripts used to get familiar with the basics of batch processing of big data.
 - 🐿️ [Apache Flink Scripts](https://github.com/johanneshagspiel/apache-flink-scripts): a collection of Apache Flink scripts used to get familiar with the basics of stream processing of big data.
 - 🧠 [Computational Intelligence Algorithms](https://github.com/johanneshagspiel/computational-intelligence-algorithms): a collection of implementations of various computational intelligence algorithms.
-- 𝛌 [Functional Programming Scripts](https://github.com/johanneshagspiel/functional-programming-scripts): a collection of Scala scripts used to get familiar with the basics of functional programming.
+-  𝛌 [Functional Programming Scripts](https://github.com/johanneshagspiel/functional-programming-scripts): a collection of Scala scripts used to get familiar with the basics of functional programming.
 - 📜 [Unix Scripts](https://github.com/johanneshagspiel/unix-scripts): a collection of bash scripts used to get familiar with unix systems and shell scripting.
 
 ### Websites & Scripts
 
 - 🔱 [johanneshagspiel.github.io](https://github.com/johanneshagspiel/johanneshagspiel.github.io): a personal website made with Jekyll and Github Pages.
-- 🏋️‍♂️[LeetCode Exercises](https://github.com/johanneshagspiel/leetcode-exercises): an overview of the LeetCode Exercises I have completed until now
+- 🏋️‍♂️[LeetCode Exercises](https://github.com/johanneshagspiel/leetcode-exercises): an overview of the LeetCode Exercises I have completed until now.
 - 💱 [Markdown-to-Anki-CSV Converter](https://github.com/johanneshagspiel/markdown-to-anki-csv-converter): a script to import the LinkedIn "Skill Assessment Quizzes" into Anki.
 - 🟡 [JPacman Test Suite](https://github.com/johanneshagspiel/jpacman-test-suite): a test-suite created for JPacman.
