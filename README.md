@@ -1,3 +1,5 @@
+# &#128075 Hi there !
+
 
 ### Applications
 - 🗃️ [Yet Another Language Learning Extension](https://github.com/johanneshagspiel/yet-another-language-learning-extension):  a Google Chrome extension to translate words and create flashcards in the browser.
@@ -27,7 +29,4 @@
 - 🔱 [johanneshagspiel.github.io](https://github.com/johanneshagspiel/johanneshagspiel.github.io): a personal website made with Jekyll and Github Pages.
 - 🏋️‍♂️[LeetCode Exercises](https://github.com/johanneshagspiel/leetcode-exercises): an overview of the LeetCode Exercises I have completed until now
 - 💱 [Markdown-to-Anki-CSV Converter](https://github.com/johanneshagspiel/markdown-to-anki-csv-converter): a script to import the LinkedIn "Skill Assessment Quizzes" into Anki.
-
-### Testing
-
 - 🟡 [JPacman Test Suite](https://github.com/johanneshagspiel/jpacman-test-suite): a test-suite created for JPacman.
