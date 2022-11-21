@@ -1,12 +1,14 @@
 # 👋  Hi there!
 
-- ⌨️I am Johannes Hagspiel, a Fullstack developer from Austria. 
+- ⌨️ I am Johannes Hagspiel, a software developer from Austria. 
 - 📖 I studied Computer Science at TU Delft and International Business Administration as well as Philosophy at Erasmus University Rotterdam.
-- ✉️Feel free to [contact me!](https://johanneshagspiel.com/contact).
+- ✉️ Feel free to [contact me!](https://johanneshagspiel.com/contact)
+
+Here is an overview of the projects I have worked on:
 
 ### Applications
 - 🗃️ [Yet Another Language Learning Extension](https://github.com/johanneshagspiel/yet-another-language-learning-extension):  a Google Chrome extension to translate words and create flashcards in the browser.
-- 🛒 [ImmutableX Gateway](https://github.com/johanneshagspiel/immutablex-gateway): a program created in order to allow the user to engage with the "Immutable X" API in an simple and automated way.
+- 🛒 [ImmutableX Gateway](https://github.com/johanneshagspiel/immutablex-gateway): a program created in order to allow the user to engage with the "Immutable X" API in an simple and automated way. https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
 - 🌍 [Planet Painter](https://github.com/johanneshagspiel/planet-painter): a desktop program developed to visualizing and quantifying through satellite imagery the impact of different kinds of interventions such as replacing cars with trees on the climate.
 - 🖥️ [G-Code Viewer](https://github.com/johanneshagspiel/gcode-viewer): a desktop application created in order to visualize the actions taken by a 3D-printer when executing a G-Code file.
 - ✂️[Haskell JQ Recreation](https://github.com/johanneshagspiel/haskell-jq-recreation): a recreation of the JSON processor jq in Haskell.
