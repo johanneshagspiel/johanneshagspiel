@@ -1,7 +1,8 @@
 # 👋  Hi there!
 
-🇦🇹 
-
+- ⌨️I am Johannes Hagspiel, a Fullstack developer from Austria. 
+- 📖 I studied Computer Science at TU Delft and International Business Administration as well as Philosophy at Erasmus University Rotterdam.
+- ✉️Feel free to [contact me!](https://johanneshagspiel.com/contact).
 
 ### Applications
 - 🗃️ [Yet Another Language Learning Extension](https://github.com/johanneshagspiel/yet-another-language-learning-extension):  a Google Chrome extension to translate words and create flashcards in the browser.
