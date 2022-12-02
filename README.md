@@ -64,14 +64,9 @@ Here is an overview of the projects I have created and the technologies I am fam
 
 ### Big Data
 
-✨ [Apache Spark Scripts](https://github.com/johanneshagspiel/apache-spark-scripts): a collection of Apache Spark scripts used to get familiar with the basics of batch processing of big data. 
+💾 [Big Data Scripts](https://github.com/johanneshagspiel/big-data-scripts): a collection of Apache Spark and Apache Flink scripts used to get familiar with the processing of big data.
 
-<picture>![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&color=%23323330&labelColor=A6A9AA)</picture> <picture>![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23F05033.svg?style=for-the-badge&logo=Apache%20Spark&color=%23323330&labelColor=A6A9AA)</picture> <picture>![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&color=%23323330&labelColor=A6A9AA)</picture>
-<hr> 
-
-🐿️ [Apache Flink Scripts](https://github.com/johanneshagspiel/apache-flink-scripts): a collection of Apache Flink scripts used to get familiar with the basics of stream processing of big data. 
-
-<picture>![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&color=%23323330&labelColor=A6A9AA)</picture> <picture>![Apache Flink](https://img.shields.io/badge/Apache%20Flink-%23F05033.svg?style=for-the-badge&logo=Apache%20Flink&color=%23323330&labelColor=A6A9AA)</picture> <picture>![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&color=%23323330&labelColor=A6A9AA)</picture>
+<picture>![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&color=%23323330&labelColor=A6A9AA)</picture> <picture>![Apache Flink](https://img.shields.io/badge/Apache%20Flink-%23F05033.svg?style=for-the-badge&logo=Apache%20Flink&color=%23323330&labelColor=A6A9AA)</picture> <picture>![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23F05033.svg?style=for-the-badge&logo=Apache%20Spark&color=%23323330&labelColor=A6A9AA)</picture> <picture>![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&color=%23323330&labelColor=A6A9AA)</picture>
 <hr>
 
 𝛌 [Functional Programming Scripts](https://github.com/johanneshagspiel/functional-programming-scripts): a collection of Scala scripts used to get familiar with the basics of functional programming. 
@@ -85,7 +80,7 @@ Here is an overview of the projects I have created and the technologies I am fam
 
 ### Websites & Scripts
 
-🔱 [johanneshagspiel.com](https://github.com/johanneshagspiel/johanneshagspiel.github.io): a personal website made with Jekyll and Github Pages. 
+🔱 [johanneshagspiel.com](https://github.com/johanneshagspiel/johanneshagspiel.github.io): my personal website made with Jekyll and Github Pages. 
 
 <picture>![JEKYLL](https://img.shields.io/badge/JEKYLL-%23575757.svg?style=for-the-badge&logo=JEKYLL&color=%23323330&labelColor=A6A9AA)</picture> <picture>![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&color=%23323330&labelColor=A6A9AA)</picture> <picture>![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&color=%23323330&labelColor=A6A9AA)</picture>
 <hr>
