@@ -95,6 +95,11 @@ Here is an overview of the projects I have created and the technologies I am fam
 <picture>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&color=%23323330&labelColor=A6A9AA)</picture> <picture>![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&color=%23323330&labelColor=A6A9AA)</picture> <picture>![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&color=%23323330&labelColor=A6A9AA)</picture> <picture>![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&color=%23323330&labelColor=A6A9AA)</picture>
 <hr>
 
+🎄️ [Advent of Code](https://github.com/johanneshagspiel/advent-of-code): my solutions to the Advent of Code.
+
+<picture>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&color=%23323330&labelColor=A6A9AA)</picture> <picture>![WebStorm](https://img.shields.io/badge/webstorm-%23323330.svg?style=for-the-badge&logo=webstorm&color=%23323330&labelColor=A6A9AA)</picture>
+<hr>
+
 💱 [Markdown-to-Anki-CSV Converter](https://github.com/johanneshagspiel/markdown-to-anki-csv-converter): a script to import the LinkedIn "Skill Assessment Quizzes" into Anki.
 
 <picture>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&color=%23323330&labelColor=A6A9AA)</picture> <picture>![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&color=%23323330&labelColor=A6A9AA)</picture> <picture>![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&color=%23323330&labelColor=A6A9AA)</picture>
