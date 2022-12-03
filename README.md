@@ -80,7 +80,7 @@ Here is an overview of the projects I have created and the technologies I am fam
 
 ### Websites & Scripts
 
-<picture><img style="float: middle; padding: 0px 0px 2px 0px;" src="img/johanneshagspiel_logo.png"  height="22.23pt" valign="middle"></picture> [johanneshagspiel.com](https://github.com/johanneshagspiel/johanneshagspiel.github.io): my personal website made with Jekyll and Github Pages. 
+<picture><img style="float: middle; padding: 0px 0px 2px 0px;" src="img/johanneshagspiel_logo.png"  height="22.23pt" valign="middle"></picture> [johanneshagspiel.com](https://github.com/johanneshagspiel/johanneshagspiel.github.io): my personal website made with Jekyll and GitHub Pages. 
 
 <picture>![JEKYLL](https://img.shields.io/badge/JEKYLL-%23575757.svg?style=for-the-badge&logo=JEKYLL&color=%23323330&labelColor=A6A9AA)</picture> <picture>![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&color=%23323330&labelColor=A6A9AA)</picture> <picture>![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&color=%23323330&labelColor=A6A9AA)</picture>
 <hr>
