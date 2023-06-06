@@ -1,6 +1,6 @@
 # 👋  Hi there!
 
-- ⌨️ I am Johannes Hagspiel, a software developer from Austria. 
+- ⌨️ I am Johannes Hagspiel, a software developer from Austria based in Switzerland. 
 - 📖  I studied Computer Science at TU Delft and International Business Administration as well as Philosophy at Erasmus University Rotterdam.
 - ✉️ Feel free to [contact me!](https://johanneshagspiel.com/contact)
 
